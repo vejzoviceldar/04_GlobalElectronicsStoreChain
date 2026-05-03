@@ -112,6 +112,7 @@ Moscow was the leading revenue city **(€20M)** in this dataset snapshot, with 
 
 The best-selling product was Solar Blender Lux, sold over **420K** times, generating **€85M** in revenue and contributing to **83%** of total revenue.  
 There are two logical explanations for this outlier:  
+
     1. More realistic: this dataset is only a small snapshot of the full dataset, and due to its limited scope, it happens that a large portion of transactions involve Solar Blender Lux (the full dataset likely contains millions of rows, so distribution would normalize).  
     2. Alternatively, for the sake of this case study, we could assume a marketing campaign was abnormally successful (though this would be unlikely to create such an extreme outlier on its own) and build a narrative around that campaign.  
 
@@ -121,37 +122,37 @@ Even though London had the highest number of stores, Moscow was the best-perform
 
 #### **Visuals**
 
-Top 10 Cities by Revenue:
+1. Top 10 Cities by Revenue:
 
 ![image9](Screenshots/09_Top_10_Cities.png)  
 
 ---
 
-Revenue Drivers and Best Selling Products:  
+2. Revenue Drivers and Best Selling Products:  
 
 ![image10](Screenshots/10_Revenue_Drivers.png)
 
 ---
 
-Best performing Stores:
+3. Best performing Stores:
 
 ![image11](Screenshots/11_Best_Performing_Stores.png)
 
 ---
 
-Revenue Share by Store Type:
+4. Revenue Share by Store Type:
 
 ![image12](Screenshots/12_Revenue_Share_by_Storetype.png)
 
 ---
 
-Stock to Sales Correlation:
+5. Stock to Sales Correlation:
 
 ![image13](Screenshots/13_Stock_to_Sales_Correlation.png)
 
 ---
 
-Total Stores per City:
+6. Total Stores per City:
 
 ![image14](Screenshots/14_Total_Stores_per_City.png)
 
