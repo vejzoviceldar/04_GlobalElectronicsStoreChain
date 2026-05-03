@@ -1,4 +1,4 @@
-# 04_GlobalElectronicsStoreChain
+# Case Study #04: Global Electronics Store Chain
 
 ---
 
