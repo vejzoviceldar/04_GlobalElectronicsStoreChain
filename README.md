@@ -17,7 +17,6 @@ Hence, my recommendations are:
 This descriptive dashboard displays *total revenue, number of stores and cities along with top 10 performing stores & cities, and daily revenue* in the first week of 2017. 
 
 ![image1](Screenshots/01_Descriptive_Dashboard.png)  
-![image1](04_GlobalElectronicsStoreChain/01_Descriptive_Dashboard.png)  
 
 ## **3. Dataset Overview**
 
@@ -26,7 +25,7 @@ This descriptive dashboard displays *total revenue, number of stores and cities 
 **Time Period**: *Jan 02 - Jan 05 (2017)*
 
 Dataset Tables:  
-![image-15.png](attachment:image-15.png)  
+![image2](Screenshots/02_03_Dataset_Overview.png)  
 
 ## **4. Data Cleaning & Preparation**
 
@@ -42,7 +41,7 @@ Dataset Tables:
 
 1. Downloaded and organized the dataset  
 
-![image-15.png](attachment:image-15.png)  
+![image3](Screenshots/02_03_Dataset_Overview.png)  
 *Dataset Folder*
 
 ---
@@ -51,7 +50,7 @@ Dataset Tables:
 |  
 v  
 Example (before and after):  
-![image-4.png](attachment:image-4.png) into ![image-8.png](attachment:image-8.png)  
+![image4](Screenshots/04_Cleaning.png) into ![image5](Screenshots/05_Cleaning.png)  
 
 ---
 
@@ -59,18 +58,18 @@ Example (before and after):
 
 Excel:  
 
-![image-5.png](attachment:image-5.png)  
+![image6](Screenshots/06_Excel_Analysis.png)  
 
 
 SQL:  
 
-![image-7.png](attachment:image-7.png)  
+![image7](Screenshots/07_SQL_Analysis.png)  
 
 ---
 
 4. Created Interactive Power BI Dashboards (Descriptive Dashboard, Products, Stores and Cities)  
 
-![image-9.png](attachment:image-9.png)  
+![image8](Screenshots/08_Interactive_BI_Dashboard_Cities.png)  
 
 ---
 
@@ -124,37 +123,37 @@ Even though London had the highest number of stores, Moscow was the best-perform
 
 Top 10 Cities by Revenue:
 
-![image-6.png](attachment:image-6.png)  
+![image9](Screenshots/09_Top_10_Cities.png)  
 
 ---
 
 Revenue Drivers and Best Selling Products:  
 
-![image-10.png](attachment:image-10.png)
+![image10](Screenshots/10Revenue_Drivers.png)
 
 ---
 
 Best performing Stores:
 
-![image-11.png](attachment:image-11.png)  
+![image11](Screenshots/11_Best_Performing_Stores.png)
 
 ---
 
 Revenue Share by Store Type:
 
-![image-12.png](attachment:image-12.png)  
+![image12](Screenshots/12_Revenue_Share_by_Storetype.png)
 
 ---
 
 Stock to Sales Correlation:
 
-![image-13.png](attachment:image-13.png)  
+![image13](Screenshots/13_Stock_to_Sales_Correlation.png)
 
 ---
 
 Total Stores per City:
 
-![image-14.png](attachment:image-14.png)  
+![image14](Screenshots/14_Total_Stores_per_City.png)
 
 ## **8. Key Insights**
 
@@ -184,7 +183,6 @@ Total Stores per City:
 * Enable real-time or near real-time data to support predictive analysis and trend monitoring
 * Include seasonality, marketing campaigns and events data to better understand spikes and anomalies across the year
 * Investigate and validate outlier products (e.g. Solar Blender Lux) to confirm whether they are data issues or true business drivers
-
 ## **12. Tools**
 
 * SQL
