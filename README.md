@@ -112,9 +112,8 @@ Moscow was the leading revenue city **(€20M)** in this dataset snapshot, with 
 
 The best-selling product was Solar Blender Lux, sold over **420K** times, generating **€85M** in revenue and contributing to **83%** of total revenue.  
 There are two logical explanations for this outlier:  
-
-    1. More realistic: this dataset is only a small snapshot of the full dataset, and due to its limited scope, it happens that a large portion of transactions involve Solar Blender Lux (the full dataset likely contains millions of rows, so distribution would normalize).  
-    2. Alternatively, for the sake of this case study, we could assume a marketing campaign was abnormally successful (though this would be unlikely to create such an extreme outlier on its own) and build a narrative around that campaign.  
+1. More realistic: this dataset is only a small snapshot of the full dataset, and due to its limited scope, it happens that a large portion of transactions involve Solar Blender Lux (the full dataset likely contains millions of rows, so distribution would normalize).  
+2. Alternatively, for the sake of this case study, we could assume a marketing campaign was abnormally successful (though this would be unlikely to create such an extreme outlier on its own) and build a narrative around that campaign.  
 
 Store Type 4 accounted for the majority of revenue share **(83%)**, heavily influenced by the Solar Blender Lux outlier effect.  
 The stock-to-sales correlation is **0.33**, however, since many stores are deviating from the trend line, this does not necessarily mean that higher stock directly leads to higher sales.  
