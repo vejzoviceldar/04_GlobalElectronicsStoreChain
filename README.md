@@ -129,7 +129,7 @@ Top 10 Cities by Revenue:
 
 Revenue Drivers and Best Selling Products:  
 
-![image10](Screenshots/10Revenue_Drivers.png)
+![image10](Screenshots/10_Revenue_Drivers.png)
 
 ---
 
