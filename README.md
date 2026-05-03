@@ -16,7 +16,7 @@ Hence, my recommendations are:
 
 This descriptive dashboard displays *total revenue, number of stores and cities along with top 10 performing stores & cities, and daily revenue* in the first week of 2017. 
 
-![image.png](attachment:image.png)  
+![image1](04_GlobalElectronicsStoreChain/01_Descriptive_Dashboard.png)  
 
 ## **3. Dataset Overview**
 
